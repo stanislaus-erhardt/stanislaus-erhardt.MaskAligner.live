@@ -3,13 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8868ee51e940dbbebeb52c520212a072",
+  "assets/AssetManifest.json": "16f229b372edc08e09aefb08d42f686a",
+"assets/assets/images/HardContact.png": "0c5d94106e8f410dc754015241531fcb",
 "assets/assets/images/Maske_1.svg": "5ab1e5aafd2a949fa890076f619d3bb8",
 "assets/assets/images/Maske_2.svg": "f753a900061197d757bde25a1ac26c84",
 "assets/assets/images/Maske_3.svg": "4fa33a1fcaeabb095d2c05986b7d0f60",
 "assets/assets/images/Maske_4.svg": "19b5e85d98dce26bcb6aef775bf83cb3",
 "assets/assets/images/mask_aligner.jpg": "8d0e1496e11bc20d3c8937feb22dd211",
-"assets/assets/images/Proximity_Info.png": "74f1b2afee9c0ef387bfbfa06d11d3fe",
+"assets/assets/images/ProximityModus.png": "b51ead524008a2e6775b84d20e8bf4a1",
+"assets/assets/images/SoftContact.png": "98bcdcbe05532bdc5966e2f32100137a",
+"assets/assets/images/VacuumContact.png": "9c8205c9160ca90d84e76a701546ab2b",
 "assets/assets/images/Wafer_1.svg": "8d475ca8dbc3b21fa73fb64675d50408",
 "assets/assets/images/Wafer_2.svg": "6bf6c9d389b5960a015194bfc39ea74f",
 "assets/assets/images/Wafer_3.svg": "6bf6c9d389b5960a015194bfc39ea74f",
@@ -37,9 +40,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0bfc6751f9ff6fe2d108afafc38a0609",
-"/": "0bfc6751f9ff6fe2d108afafc38a0609",
-"main.dart.js": "bc212e53860abd7787735001dc35b81b",
+"index.html": "083fe5c65b7fb9800555b6980bc1b83c",
+"/": "083fe5c65b7fb9800555b6980bc1b83c",
+"main.dart.js": "6bba1da2b17a9a8b26aaf37aa25cd31a",
 "manifest.json": "294e60b526ec98fff925d84905a764a7",
 "version.json": "b5e6c8783db0e5f00784fa751e31beed"
 };
